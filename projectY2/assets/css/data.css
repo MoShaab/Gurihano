@@ -1,0 +1,24 @@
+.row{
+    padding-bottom: 7px;
+}
+.row .mainResultsSection{
+    margin-left: 100px;
+    margin-top: 40px;
+    
+}
+
+.row .mainResultsSection .results{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    margin-bottom: 26px;
+}
+.row .mainResultsSection .results img{
+    height: 200px;
+}
+
+h2{
+    margin-left: 150px;
+    text-decoration: wavy;
+}
